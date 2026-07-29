@@ -1,3 +1,7 @@
+v.8.0.2
+- Fix: Resolved an issue where pre-rendering could fail in projects with Central Package Management enabled.
+- Improve: Updated the AngleSharp package to a newer version to address a reported vulnerability.
+
 v.8.0.1
 - Fix: Resolved an issue where the hosting environment name was incorrectly "Prerendering" instead of "Production" in "WebAssemblyPrerendered" mode.
 
